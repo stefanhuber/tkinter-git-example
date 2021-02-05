@@ -128,7 +128,7 @@ messagebox.showinfo("Vorlesung Ende","Wir möchten Sie darüber informieren, das
 ```
 
 ### Screenshot
-![Dialog Screenshot](dialog.png "Dialog Screenshot")
+![Dialog Screenshot](dialog.png "Dialog Screenshot"){width=50%}
 
 ## Tkinter Checkbutton
 
